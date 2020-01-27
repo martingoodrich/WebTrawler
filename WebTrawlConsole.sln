@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebTrawlConsole", "WebTrawlConsole\WebTrawlConsole.csproj", "{CB54197F-B458-464B-8A81-73A7C45CB8ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebTrawlConsoleTest", "WebTrawlConsoleTest\WebTrawlConsoleTest.csproj", "{AF97AAA0-1E12-419F-BE9E-2E0EB020CD7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9E6F598-B86E-4481-AE30-1F542DF4C306}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB54197F-B458-464B-8A81-73A7C45CB8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB54197F-B458-464B-8A81-73A7C45CB8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB54197F-B458-464B-8A81-73A7C45CB8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB54197F-B458-464B-8A81-73A7C45CB8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF97AAA0-1E12-419F-BE9E-2E0EB020CD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF97AAA0-1E12-419F-BE9E-2E0EB020CD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF97AAA0-1E12-419F-BE9E-2E0EB020CD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF97AAA0-1E12-419F-BE9E-2E0EB020CD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C79F04-C8CD-4F23-B181-E43FAAC1F5E4}
+	EndGlobalSection
+EndGlobal
